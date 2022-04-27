@@ -1,0 +1,137 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
+body {
+    font-size: 15pt;
+    background:#FFFFFF;
+    font-family: Lato;
+}
+h2 {
+  font-family: Lato;
+}
+h1, h3{
+  background: #E1E3FF;
+  font-family: Lato;
+  border-radius: 20px;
+  padding: 15px;
+  width: 400px;
+}
+p {
+  background: #E1E3FF;
+  border-radius: 20px;
+}
+#morango{
+  background: #FF4D4D;
+  border-radius: 30px;
+  width: 400px;
+}
+#imgmorango {
+  background: #FF4D4D;
+  border-radius: 20px;
+  padding: 15px;
+  width: 400px;
+}
+#hmorango {
+  background: #FF4D4D;
+  font-family: Lato;
+  border-radius: 20px;
+  width: 300px;
+}
+#modomoran {
+  background: #FF4D4D;
+  font-family: Lato;
+  border-radius: 20px;
+  width: 300px;
+}
+
+#uva {
+  background: #654384;
+  border-radius: 30px;
+  width: 400px;
+}
+#imguva {
+  background: #654384;
+  border-radius: 20px;
+  padding: 15px;
+  width: 400px;
+}
+#huva {
+  background: #654384;
+  font-family: Lato;
+  border-radius: 20px;
+  width: 300px;
+}
+#modouv {
+  background: #654384;
+  font-family: Lato;
+  border-radius: 20px;
+  width: 300px;
+}
+#abacaxi {
+  background: #FFF496;
+  border-radius: 20px;
+  width: 400px;
+}
+#imgabacaxi {
+  background: #FFF496;
+  border-radius: 20px;
+  padding: 15px;
+  width: 400px;
+}
+#habacaxi {
+  background: #FFF496;
+  font-family: Lato;
+  border-radius: 20px;
+  width: 300px;
+}
+#modoabaca {
+  background: #FFF496;
+  font-family: Lato;
+  border-radius: 20px;
+  width: 300px;
+}
+#manga{
+  background: #EFE060;
+  border-radius: 20px;
+  width: 400px;
+}
+#imgmanga {
+  background: #EFE060;
+  border-radius: 20px;
+  padding: 15px;
+  width: 400px;
+}
+#hmanga {
+  background: #EFE060;
+  font-family: Lato;
+  border-radius: 20px;
+  width: 300px;
+}
+#modomanga {
+  background: #EFE060;
+  font-family: Lato;
+  border-radius: 20px;
+  width: 300px;
+}
+#laranja {
+  background: #FFF076;
+  border-radius: 20px;
+  width: 400px;
+}
+#imglaranja{
+  background: #FFF076;
+  border-radius: 20px;
+  padding: 15px;
+  width: 400px;
+}
+#hlaranja {
+  background: #FFF076;
+  font-family: Lato;
+  border-radius: 20px;
+  width: 300px;
+}
+#modo {
+  background: #FFF076;
+  font-family: Lato;
+  border-radius: 20px;
+  width: 300px;
+}
